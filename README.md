@@ -13,7 +13,7 @@ class Attributes extends Junoo {
 
     get life() {
         const language = ['Vietnamese', 'English'];
-        const age = 24;
+        const age = 22;
 
         return [language, age];
     }
