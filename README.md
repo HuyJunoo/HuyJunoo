@@ -3,7 +3,7 @@ class Junoo {}
 
 class Attributes extends Junoo {
     get contact() {
-        const discord = "discord.gg/tB3tBVbG";
+        const discord = "discord.gg/4ERBNKUVqs";
         const telegram = "t.me/WusJunoo";
         const facebook = "fb.com/NinhQuangHuy.Dev";
         const email = "JunooError404@gmail.com";
